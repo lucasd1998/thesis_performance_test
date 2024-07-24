@@ -1,0 +1,1510 @@
+{
+    "OrderNumber": "{order_number}",
+    "ArticleName": "EBike",
+    "MachineName": "{machine_name}",
+    "SerialNumber": "{serial_number}",
+    "InspectionsAndResults": [
+        {
+            "InspectionStep": "1",
+            "InspectionName": "InspectionStepForEBike1",
+            "InspectionLowerBorderValue": "28",
+            "InspectionTargetValue": "36.5",
+            "InspectionUpperBorderValue": "45",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "2",
+            "InspectionName": "InspectionStepForEBike2",
+            "InspectionLowerBorderValue": "84",
+            "InspectionTargetValue": "89.5",
+            "InspectionUpperBorderValue": "95",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "3",
+            "InspectionName": "InspectionStepForEBike3",
+            "InspectionLowerBorderValue": "16",
+            "InspectionTargetValue": "25.0",
+            "InspectionUpperBorderValue": "34",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "4",
+            "InspectionName": "InspectionStepForEBike4",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "18.0",
+            "InspectionUpperBorderValue": "25",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "5",
+            "InspectionName": "InspectionStepForEBike5",
+            "InspectionLowerBorderValue": "43",
+            "InspectionTargetValue": "47.0",
+            "InspectionUpperBorderValue": "51",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "6",
+            "InspectionName": "InspectionStepForEBike6",
+            "InspectionLowerBorderValue": "41",
+            "InspectionTargetValue": "47.5",
+            "InspectionUpperBorderValue": "54",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "7",
+            "InspectionName": "InspectionStepForEBike7",
+            "InspectionLowerBorderValue": "29",
+            "InspectionTargetValue": "33.0",
+            "InspectionUpperBorderValue": "37",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "8",
+            "InspectionName": "InspectionStepForEBike8",
+            "InspectionLowerBorderValue": "19",
+            "InspectionTargetValue": "29.0",
+            "InspectionUpperBorderValue": "39",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "9",
+            "InspectionName": "InspectionStepForEBike9",
+            "InspectionLowerBorderValue": "55",
+            "InspectionTargetValue": "61.5",
+            "InspectionUpperBorderValue": "68",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "10",
+            "InspectionName": "InspectionStepForEBike10",
+            "InspectionLowerBorderValue": "91",
+            "InspectionTargetValue": "98.5",
+            "InspectionUpperBorderValue": "106",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "11",
+            "InspectionName": "InspectionStepForEBike11",
+            "InspectionLowerBorderValue": "46",
+            "InspectionTargetValue": "55.0",
+            "InspectionUpperBorderValue": "64",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "12",
+            "InspectionName": "InspectionStepForEBike12",
+            "InspectionLowerBorderValue": "64",
+            "InspectionTargetValue": "68.5",
+            "InspectionUpperBorderValue": "73",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "18",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "5"
+            }
+        },
+        {
+            "InspectionStep": "13",
+            "InspectionName": "InspectionStepForEBike13",
+            "InspectionLowerBorderValue": "30",
+            "InspectionTargetValue": "37.0",
+            "InspectionUpperBorderValue": "44",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "14",
+            "InspectionName": "InspectionStepForEBike14",
+            "InspectionLowerBorderValue": "38",
+            "InspectionTargetValue": "46.5",
+            "InspectionUpperBorderValue": "55",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "15",
+            "InspectionName": "InspectionStepForEBike15",
+            "InspectionLowerBorderValue": "41",
+            "InspectionTargetValue": "47.0",
+            "InspectionUpperBorderValue": "53",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "16",
+            "InspectionName": "InspectionStepForEBike16",
+            "InspectionLowerBorderValue": "33",
+            "InspectionTargetValue": "36.0",
+            "InspectionUpperBorderValue": "39",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "17",
+            "InspectionName": "InspectionStepForEBike17",
+            "InspectionLowerBorderValue": "64",
+            "InspectionTargetValue": "72.5",
+            "InspectionUpperBorderValue": "81",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "5"
+            }
+        },
+        {
+            "InspectionStep": "18",
+            "InspectionName": "InspectionStepForEBike18",
+            "InspectionLowerBorderValue": "94",
+            "InspectionTargetValue": "98.5",
+            "InspectionUpperBorderValue": "103",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "19",
+            "InspectionName": "InspectionStepForEBike19",
+            "InspectionLowerBorderValue": "56",
+            "InspectionTargetValue": "64.0",
+            "InspectionUpperBorderValue": "72",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "20",
+            "InspectionName": "InspectionStepForEBike20",
+            "InspectionLowerBorderValue": "63",
+            "InspectionTargetValue": "70.0",
+            "InspectionUpperBorderValue": "77",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "21",
+            "InspectionName": "InspectionStepForEBike21",
+            "InspectionLowerBorderValue": "68",
+            "InspectionTargetValue": "74.5",
+            "InspectionUpperBorderValue": "81",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "22",
+            "InspectionName": "InspectionStepForEBike22",
+            "InspectionLowerBorderValue": "63",
+            "InspectionTargetValue": "71.5",
+            "InspectionUpperBorderValue": "80",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "23",
+            "InspectionName": "InspectionStepForEBike23",
+            "InspectionLowerBorderValue": "94",
+            "InspectionTargetValue": "99.5",
+            "InspectionUpperBorderValue": "105",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "24",
+            "InspectionName": "InspectionStepForEBike24",
+            "InspectionLowerBorderValue": "48",
+            "InspectionTargetValue": "55.5",
+            "InspectionUpperBorderValue": "63",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "25",
+            "InspectionName": "InspectionStepForEBike25",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "13.0",
+            "InspectionUpperBorderValue": "21",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "17",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "8"
+            }
+        },
+        {
+            "InspectionStep": "26",
+            "InspectionName": "InspectionStepForEBike26",
+            "InspectionLowerBorderValue": "72",
+            "InspectionTargetValue": "77.5",
+            "InspectionUpperBorderValue": "83",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "8"
+            }
+        },
+        {
+            "InspectionStep": "27",
+            "InspectionName": "InspectionStepForEBike27",
+            "InspectionLowerBorderValue": "74",
+            "InspectionTargetValue": "82.0",
+            "InspectionUpperBorderValue": "90",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "28",
+            "InspectionName": "InspectionStepForEBike28",
+            "InspectionLowerBorderValue": "7",
+            "InspectionTargetValue": "10.0",
+            "InspectionUpperBorderValue": "13",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "29",
+            "InspectionName": "InspectionStepForEBike29",
+            "InspectionLowerBorderValue": "13",
+            "InspectionTargetValue": "16.0",
+            "InspectionUpperBorderValue": "19",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "30",
+            "InspectionName": "InspectionStepForEBike30",
+            "InspectionLowerBorderValue": "64",
+            "InspectionTargetValue": "73.0",
+            "InspectionUpperBorderValue": "82",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "31",
+            "InspectionName": "InspectionStepForEBike31",
+            "InspectionLowerBorderValue": "63",
+            "InspectionTargetValue": "70.5",
+            "InspectionUpperBorderValue": "78",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "32",
+            "InspectionName": "InspectionStepForEBike32",
+            "InspectionLowerBorderValue": "59",
+            "InspectionTargetValue": "64.0",
+            "InspectionUpperBorderValue": "69",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "33",
+            "InspectionName": "InspectionStepForEBike33",
+            "InspectionLowerBorderValue": "76",
+            "InspectionTargetValue": "85.5",
+            "InspectionUpperBorderValue": "95",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "34",
+            "InspectionName": "InspectionStepForEBike34",
+            "InspectionLowerBorderValue": "72",
+            "InspectionTargetValue": "78.5",
+            "InspectionUpperBorderValue": "85",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "35",
+            "InspectionName": "InspectionStepForEBike35",
+            "InspectionLowerBorderValue": "99",
+            "InspectionTargetValue": "105.0",
+            "InspectionUpperBorderValue": "111",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "36",
+            "InspectionName": "InspectionStepForEBike36",
+            "InspectionLowerBorderValue": "73",
+            "InspectionTargetValue": "76.0",
+            "InspectionUpperBorderValue": "79",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "37",
+            "InspectionName": "InspectionStepForEBike37",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "15.0",
+            "InspectionUpperBorderValue": "25",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "38",
+            "InspectionName": "InspectionStepForEBike38",
+            "InspectionLowerBorderValue": "37",
+            "InspectionTargetValue": "44.5",
+            "InspectionUpperBorderValue": "52",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "18",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "39",
+            "InspectionName": "InspectionStepForEBike39",
+            "InspectionLowerBorderValue": "85",
+            "InspectionTargetValue": "91.5",
+            "InspectionUpperBorderValue": "98",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "40",
+            "InspectionName": "InspectionStepForEBike40",
+            "InspectionLowerBorderValue": "79",
+            "InspectionTargetValue": "88.0",
+            "InspectionUpperBorderValue": "97",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "6"
+            }
+        },
+        {
+            "InspectionStep": "41",
+            "InspectionName": "InspectionStepForEBike41",
+            "InspectionLowerBorderValue": "94",
+            "InspectionTargetValue": "99.0",
+            "InspectionUpperBorderValue": "104",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "42",
+            "InspectionName": "InspectionStepForEBike42",
+            "InspectionLowerBorderValue": "3",
+            "InspectionTargetValue": "5.5",
+            "InspectionUpperBorderValue": "8",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "43",
+            "InspectionName": "InspectionStepForEBike43",
+            "InspectionLowerBorderValue": "51",
+            "InspectionTargetValue": "54.5",
+            "InspectionUpperBorderValue": "58",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "44",
+            "InspectionName": "InspectionStepForEBike44",
+            "InspectionLowerBorderValue": "43",
+            "InspectionTargetValue": "48.0",
+            "InspectionUpperBorderValue": "53",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "45",
+            "InspectionName": "InspectionStepForEBike45",
+            "InspectionLowerBorderValue": "6",
+            "InspectionTargetValue": "9.0",
+            "InspectionUpperBorderValue": "12",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "18",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "46",
+            "InspectionName": "InspectionStepForEBike46",
+            "InspectionLowerBorderValue": "66",
+            "InspectionTargetValue": "71.0",
+            "InspectionUpperBorderValue": "76",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "47",
+            "InspectionName": "InspectionStepForEBike47",
+            "InspectionLowerBorderValue": "51",
+            "InspectionTargetValue": "61.0",
+            "InspectionUpperBorderValue": "71",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "48",
+            "InspectionName": "InspectionStepForEBike48",
+            "InspectionLowerBorderValue": "65",
+            "InspectionTargetValue": "67.5",
+            "InspectionUpperBorderValue": "70",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "49",
+            "InspectionName": "InspectionStepForEBike49",
+            "InspectionLowerBorderValue": "58",
+            "InspectionTargetValue": "67.5",
+            "InspectionUpperBorderValue": "77",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "50",
+            "InspectionName": "InspectionStepForEBike50",
+            "InspectionLowerBorderValue": "40",
+            "InspectionTargetValue": "43.5",
+            "InspectionUpperBorderValue": "47",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "51",
+            "InspectionName": "InspectionStepForEBike51",
+            "InspectionLowerBorderValue": "69",
+            "InspectionTargetValue": "75.5",
+            "InspectionUpperBorderValue": "82",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "52",
+            "InspectionName": "InspectionStepForEBike52",
+            "InspectionLowerBorderValue": "22",
+            "InspectionTargetValue": "25.0",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "53",
+            "InspectionName": "InspectionStepForEBike53",
+            "InspectionLowerBorderValue": "43",
+            "InspectionTargetValue": "50.0",
+            "InspectionUpperBorderValue": "57",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "54",
+            "InspectionName": "InspectionStepForEBike54",
+            "InspectionLowerBorderValue": "25",
+            "InspectionTargetValue": "32.5",
+            "InspectionUpperBorderValue": "40",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "55",
+            "InspectionName": "InspectionStepForEBike55",
+            "InspectionLowerBorderValue": "6",
+            "InspectionTargetValue": "16.0",
+            "InspectionUpperBorderValue": "26",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "56",
+            "InspectionName": "InspectionStepForEBike56",
+            "InspectionLowerBorderValue": "31",
+            "InspectionTargetValue": "38.0",
+            "InspectionUpperBorderValue": "45",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "57",
+            "InspectionName": "InspectionStepForEBike57",
+            "InspectionLowerBorderValue": "96",
+            "InspectionTargetValue": "100.5",
+            "InspectionUpperBorderValue": "105",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "58",
+            "InspectionName": "InspectionStepForEBike58",
+            "InspectionLowerBorderValue": "9",
+            "InspectionTargetValue": "18.5",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "59",
+            "InspectionName": "InspectionStepForEBike59",
+            "InspectionLowerBorderValue": "18",
+            "InspectionTargetValue": "27.5",
+            "InspectionUpperBorderValue": "37",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "60",
+            "InspectionName": "InspectionStepForEBike60",
+            "InspectionLowerBorderValue": "12",
+            "InspectionTargetValue": "22.0",
+            "InspectionUpperBorderValue": "32",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "61",
+            "InspectionName": "InspectionStepForEBike61",
+            "InspectionLowerBorderValue": "10",
+            "InspectionTargetValue": "15.0",
+            "InspectionUpperBorderValue": "20",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "62",
+            "InspectionName": "InspectionStepForEBike62",
+            "InspectionLowerBorderValue": "82",
+            "InspectionTargetValue": "92.0",
+            "InspectionUpperBorderValue": "102",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "63",
+            "InspectionName": "InspectionStepForEBike63",
+            "InspectionLowerBorderValue": "45",
+            "InspectionTargetValue": "54.5",
+            "InspectionUpperBorderValue": "64",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "64",
+            "InspectionName": "InspectionStepForEBike64",
+            "InspectionLowerBorderValue": "48",
+            "InspectionTargetValue": "54.5",
+            "InspectionUpperBorderValue": "61",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "65",
+            "InspectionName": "InspectionStepForEBike65",
+            "InspectionLowerBorderValue": "76",
+            "InspectionTargetValue": "86.0",
+            "InspectionUpperBorderValue": "96",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "66",
+            "InspectionName": "InspectionStepForEBike66",
+            "InspectionLowerBorderValue": "24",
+            "InspectionTargetValue": "29.0",
+            "InspectionUpperBorderValue": "34",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "67",
+            "InspectionName": "InspectionStepForEBike67",
+            "InspectionLowerBorderValue": "82",
+            "InspectionTargetValue": "90.5",
+            "InspectionUpperBorderValue": "99",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "68",
+            "InspectionName": "InspectionStepForEBike68",
+            "InspectionLowerBorderValue": "41",
+            "InspectionTargetValue": "50.5",
+            "InspectionUpperBorderValue": "60",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "69",
+            "InspectionName": "InspectionStepForEBike69",
+            "InspectionLowerBorderValue": "63",
+            "InspectionTargetValue": "69.0",
+            "InspectionUpperBorderValue": "75",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "70",
+            "InspectionName": "InspectionStepForEBike70",
+            "InspectionLowerBorderValue": "46",
+            "InspectionTargetValue": "54.0",
+            "InspectionUpperBorderValue": "62",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "71",
+            "InspectionName": "InspectionStepForEBike71",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "101.5",
+            "InspectionUpperBorderValue": "106",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "72",
+            "InspectionName": "InspectionStepForEBike72",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "21.0",
+            "InspectionUpperBorderValue": "31",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "73",
+            "InspectionName": "InspectionStepForEBike73",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "10.0",
+            "InspectionUpperBorderValue": "15",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "74",
+            "InspectionName": "InspectionStepForEBike74",
+            "InspectionLowerBorderValue": "3",
+            "InspectionTargetValue": "5.5",
+            "InspectionUpperBorderValue": "8",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "75",
+            "InspectionName": "InspectionStepForEBike75",
+            "InspectionLowerBorderValue": "50",
+            "InspectionTargetValue": "55.0",
+            "InspectionUpperBorderValue": "60",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "76",
+            "InspectionName": "InspectionStepForEBike76",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "65.5",
+            "InspectionUpperBorderValue": "70",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "77",
+            "InspectionName": "InspectionStepForEBike77",
+            "InspectionLowerBorderValue": "98",
+            "InspectionTargetValue": "100.5",
+            "InspectionUpperBorderValue": "103",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "78",
+            "InspectionName": "InspectionStepForEBike78",
+            "InspectionLowerBorderValue": "31",
+            "InspectionTargetValue": "34.5",
+            "InspectionUpperBorderValue": "38",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "79",
+            "InspectionName": "InspectionStepForEBike79",
+            "InspectionLowerBorderValue": "82",
+            "InspectionTargetValue": "92.0",
+            "InspectionUpperBorderValue": "102",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "80",
+            "InspectionName": "InspectionStepForEBike80",
+            "InspectionLowerBorderValue": "98",
+            "InspectionTargetValue": "107.0",
+            "InspectionUpperBorderValue": "116",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "81",
+            "InspectionName": "InspectionStepForEBike81",
+            "InspectionLowerBorderValue": "49",
+            "InspectionTargetValue": "57.0",
+            "InspectionUpperBorderValue": "65",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "82",
+            "InspectionName": "InspectionStepForEBike82",
+            "InspectionLowerBorderValue": "46",
+            "InspectionTargetValue": "52.0",
+            "InspectionUpperBorderValue": "58",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "83",
+            "InspectionName": "InspectionStepForEBike83",
+            "InspectionLowerBorderValue": "54",
+            "InspectionTargetValue": "59.5",
+            "InspectionUpperBorderValue": "65",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "84",
+            "InspectionName": "InspectionStepForEBike84",
+            "InspectionLowerBorderValue": "54",
+            "InspectionTargetValue": "56.5",
+            "InspectionUpperBorderValue": "59",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "85",
+            "InspectionName": "InspectionStepForEBike85",
+            "InspectionLowerBorderValue": "83",
+            "InspectionTargetValue": "85.5",
+            "InspectionUpperBorderValue": "88",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "86",
+            "InspectionName": "InspectionStepForEBike86",
+            "InspectionLowerBorderValue": "37",
+            "InspectionTargetValue": "43.5",
+            "InspectionUpperBorderValue": "50",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "87",
+            "InspectionName": "InspectionStepForEBike87",
+            "InspectionLowerBorderValue": "82",
+            "InspectionTargetValue": "88.0",
+            "InspectionUpperBorderValue": "94",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "88",
+            "InspectionName": "InspectionStepForEBike88",
+            "InspectionLowerBorderValue": "46",
+            "InspectionTargetValue": "53.0",
+            "InspectionUpperBorderValue": "60",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "89",
+            "InspectionName": "InspectionStepForEBike89",
+            "InspectionLowerBorderValue": "17",
+            "InspectionTargetValue": "23.5",
+            "InspectionUpperBorderValue": "30",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "90",
+            "InspectionName": "InspectionStepForEBike90",
+            "InspectionLowerBorderValue": "29",
+            "InspectionTargetValue": "31.5",
+            "InspectionUpperBorderValue": "34",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "91",
+            "InspectionName": "InspectionStepForEBike91",
+            "InspectionLowerBorderValue": "9",
+            "InspectionTargetValue": "13.5",
+            "InspectionUpperBorderValue": "18",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "92",
+            "InspectionName": "InspectionStepForEBike92",
+            "InspectionLowerBorderValue": "27",
+            "InspectionTargetValue": "33.0",
+            "InspectionUpperBorderValue": "39",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "93",
+            "InspectionName": "InspectionStepForEBike93",
+            "InspectionLowerBorderValue": "7",
+            "InspectionTargetValue": "12.5",
+            "InspectionUpperBorderValue": "18",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "94",
+            "InspectionName": "InspectionStepForEBike94",
+            "InspectionLowerBorderValue": "41",
+            "InspectionTargetValue": "46.5",
+            "InspectionUpperBorderValue": "52",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "95",
+            "InspectionName": "InspectionStepForEBike95",
+            "InspectionLowerBorderValue": "30",
+            "InspectionTargetValue": "33.5",
+            "InspectionUpperBorderValue": "37",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "96",
+            "InspectionName": "InspectionStepForEBike96",
+            "InspectionLowerBorderValue": "13",
+            "InspectionTargetValue": "23.0",
+            "InspectionUpperBorderValue": "33",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "97",
+            "InspectionName": "InspectionStepForEBike97",
+            "InspectionLowerBorderValue": "34",
+            "InspectionTargetValue": "43.0",
+            "InspectionUpperBorderValue": "52",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "98",
+            "InspectionName": "InspectionStepForEBike98",
+            "InspectionLowerBorderValue": "51",
+            "InspectionTargetValue": "55.0",
+            "InspectionUpperBorderValue": "59",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "99",
+            "InspectionName": "InspectionStepForEBike99",
+            "InspectionLowerBorderValue": "16",
+            "InspectionTargetValue": "23.5",
+            "InspectionUpperBorderValue": "31",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "100",
+            "InspectionName": "InspectionStepForEBike100",
+            "InspectionLowerBorderValue": "13",
+            "InspectionTargetValue": "18.0",
+            "InspectionUpperBorderValue": "23",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForEBike.AnyMachineSetpoint4": "19"
+            }
+        }
+    ]
+}

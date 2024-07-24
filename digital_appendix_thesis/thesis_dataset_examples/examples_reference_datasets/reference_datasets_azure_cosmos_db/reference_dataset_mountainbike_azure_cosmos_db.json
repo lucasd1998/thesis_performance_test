@@ -1,0 +1,1519 @@
+{
+    "OrderNumber": "{order_number}",
+    "ArticleName": "Mountainbike",
+    "MachineName": "{machine_name}",
+    "SerialNumber": "{serial_number}",
+    "InspectionsAndResults": [
+        {
+            "InspectionStep": "1",
+            "InspectionName": "InspectionStepForMountainbike1",
+            "InspectionLowerBorderValue": "30",
+            "InspectionTargetValue": "33.0",
+            "InspectionUpperBorderValue": "36",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "2",
+            "InspectionName": "InspectionStepForMountainbike2",
+            "InspectionLowerBorderValue": "31",
+            "InspectionTargetValue": "37.0",
+            "InspectionUpperBorderValue": "43",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "3",
+            "InspectionName": "InspectionStepForMountainbike3",
+            "InspectionLowerBorderValue": "69",
+            "InspectionTargetValue": "77.0",
+            "InspectionUpperBorderValue": "85",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "4",
+            "InspectionName": "InspectionStepForMountainbike4",
+            "InspectionLowerBorderValue": "36",
+            "InspectionTargetValue": "46.0",
+            "InspectionUpperBorderValue": "56",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "5",
+            "InspectionName": "InspectionStepForMountainbike5",
+            "InspectionLowerBorderValue": "20",
+            "InspectionTargetValue": "25.5",
+            "InspectionUpperBorderValue": "31",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "6",
+            "InspectionName": "InspectionStepForMountainbike6",
+            "InspectionLowerBorderValue": "91",
+            "InspectionTargetValue": "97.0",
+            "InspectionUpperBorderValue": "103",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "7",
+            "InspectionName": "InspectionStepForMountainbike7",
+            "InspectionLowerBorderValue": "32",
+            "InspectionTargetValue": "35.5",
+            "InspectionUpperBorderValue": "39",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "8",
+            "InspectionName": "InspectionStepForMountainbike8",
+            "InspectionLowerBorderValue": "19",
+            "InspectionTargetValue": "25.5",
+            "InspectionUpperBorderValue": "32",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "9",
+            "InspectionName": "InspectionStepForMountainbike9",
+            "InspectionLowerBorderValue": "59",
+            "InspectionTargetValue": "62.0",
+            "InspectionUpperBorderValue": "65",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "10",
+            "InspectionName": "InspectionStepForMountainbike10",
+            "InspectionLowerBorderValue": "71",
+            "InspectionTargetValue": "79.5",
+            "InspectionUpperBorderValue": "88",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "11",
+            "InspectionName": "InspectionStepForMountainbike11",
+            "InspectionLowerBorderValue": "22",
+            "InspectionTargetValue": "31.0",
+            "InspectionUpperBorderValue": "40",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "12",
+            "InspectionName": "InspectionStepForMountainbike12",
+            "InspectionLowerBorderValue": "82",
+            "InspectionTargetValue": "84.5",
+            "InspectionUpperBorderValue": "87",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "13",
+            "InspectionName": "InspectionStepForMountainbike13",
+            "InspectionLowerBorderValue": "22",
+            "InspectionTargetValue": "25.5",
+            "InspectionUpperBorderValue": "29",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "14",
+            "InspectionName": "InspectionStepForMountainbike14",
+            "InspectionLowerBorderValue": "91",
+            "InspectionTargetValue": "95.5",
+            "InspectionUpperBorderValue": "100",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "15",
+            "InspectionName": "InspectionStepForMountainbike15",
+            "InspectionLowerBorderValue": "6",
+            "InspectionTargetValue": "16.0",
+            "InspectionUpperBorderValue": "26",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "16",
+            "InspectionName": "InspectionStepForMountainbike16",
+            "InspectionLowerBorderValue": "6",
+            "InspectionTargetValue": "8.5",
+            "InspectionUpperBorderValue": "11",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "6"
+            }
+        },
+        {
+            "InspectionStep": "17",
+            "InspectionName": "InspectionStepForMountainbike17",
+            "InspectionLowerBorderValue": "57",
+            "InspectionTargetValue": "63.5",
+            "InspectionUpperBorderValue": "70",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "18",
+            "InspectionName": "InspectionStepForMountainbike18",
+            "InspectionLowerBorderValue": "52",
+            "InspectionTargetValue": "57.0",
+            "InspectionUpperBorderValue": "62",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "19",
+            "InspectionName": "InspectionStepForMountainbike19",
+            "InspectionLowerBorderValue": "43",
+            "InspectionTargetValue": "51.5",
+            "InspectionUpperBorderValue": "60",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "20",
+            "InspectionName": "InspectionStepForMountainbike20",
+            "InspectionLowerBorderValue": "29",
+            "InspectionTargetValue": "34.0",
+            "InspectionUpperBorderValue": "39",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "21",
+            "InspectionName": "InspectionStepForMountainbike21",
+            "InspectionLowerBorderValue": "89",
+            "InspectionTargetValue": "96.5",
+            "InspectionUpperBorderValue": "104",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "22",
+            "InspectionName": "InspectionStepForMountainbike22",
+            "InspectionLowerBorderValue": "26",
+            "InspectionTargetValue": "33.0",
+            "InspectionUpperBorderValue": "40",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "23",
+            "InspectionName": "InspectionStepForMountainbike23",
+            "InspectionLowerBorderValue": "20",
+            "InspectionTargetValue": "28.0",
+            "InspectionUpperBorderValue": "36",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "24",
+            "InspectionName": "InspectionStepForMountainbike24",
+            "InspectionLowerBorderValue": "96",
+            "InspectionTargetValue": "100.0",
+            "InspectionUpperBorderValue": "104",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "25",
+            "InspectionName": "InspectionStepForMountainbike25",
+            "InspectionLowerBorderValue": "78",
+            "InspectionTargetValue": "85.5",
+            "InspectionUpperBorderValue": "93",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "26",
+            "InspectionName": "InspectionStepForMountainbike26",
+            "InspectionLowerBorderValue": "62",
+            "InspectionTargetValue": "68.0",
+            "InspectionUpperBorderValue": "74",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "27",
+            "InspectionName": "InspectionStepForMountainbike27",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "13.5",
+            "InspectionUpperBorderValue": "22",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "28",
+            "InspectionName": "InspectionStepForMountainbike28",
+            "InspectionLowerBorderValue": "44",
+            "InspectionTargetValue": "52.5",
+            "InspectionUpperBorderValue": "61",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "29",
+            "InspectionName": "InspectionStepForMountainbike29",
+            "InspectionLowerBorderValue": "7",
+            "InspectionTargetValue": "15.0",
+            "InspectionUpperBorderValue": "23",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "30",
+            "InspectionName": "InspectionStepForMountainbike30",
+            "InspectionLowerBorderValue": "58",
+            "InspectionTargetValue": "64.0",
+            "InspectionUpperBorderValue": "70",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "31",
+            "InspectionName": "InspectionStepForMountainbike31",
+            "InspectionLowerBorderValue": "29",
+            "InspectionTargetValue": "34.0",
+            "InspectionUpperBorderValue": "39",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "32",
+            "InspectionName": "InspectionStepForMountainbike32",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "101.5",
+            "InspectionUpperBorderValue": "106",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "33",
+            "InspectionName": "InspectionStepForMountainbike33",
+            "InspectionLowerBorderValue": "72",
+            "InspectionTargetValue": "79.5",
+            "InspectionUpperBorderValue": "87",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "34",
+            "InspectionName": "InspectionStepForMountainbike34",
+            "InspectionLowerBorderValue": "84",
+            "InspectionTargetValue": "89.5",
+            "InspectionUpperBorderValue": "95",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "35",
+            "InspectionName": "InspectionStepForMountainbike35",
+            "InspectionLowerBorderValue": "8",
+            "InspectionTargetValue": "17.5",
+            "InspectionUpperBorderValue": "27",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "36",
+            "InspectionName": "InspectionStepForMountainbike36",
+            "InspectionLowerBorderValue": "78",
+            "InspectionTargetValue": "88.0",
+            "InspectionUpperBorderValue": "98",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "37",
+            "InspectionName": "InspectionStepForMountainbike37",
+            "InspectionLowerBorderValue": "29",
+            "InspectionTargetValue": "31.5",
+            "InspectionUpperBorderValue": "34",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "38",
+            "InspectionName": "InspectionStepForMountainbike38",
+            "InspectionLowerBorderValue": "8",
+            "InspectionTargetValue": "14.5",
+            "InspectionUpperBorderValue": "21",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "39",
+            "InspectionName": "InspectionStepForMountainbike39",
+            "InspectionLowerBorderValue": "33",
+            "InspectionTargetValue": "39.0",
+            "InspectionUpperBorderValue": "45",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "40",
+            "InspectionName": "InspectionStepForMountainbike40",
+            "InspectionLowerBorderValue": "77",
+            "InspectionTargetValue": "86.5",
+            "InspectionUpperBorderValue": "96",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "41",
+            "InspectionName": "InspectionStepForMountainbike41",
+            "InspectionLowerBorderValue": "48",
+            "InspectionTargetValue": "50.5",
+            "InspectionUpperBorderValue": "53",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "42",
+            "InspectionName": "InspectionStepForMountainbike42",
+            "InspectionLowerBorderValue": "32",
+            "InspectionTargetValue": "41.5",
+            "InspectionUpperBorderValue": "51",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "43",
+            "InspectionName": "InspectionStepForMountainbike43",
+            "InspectionLowerBorderValue": "74",
+            "InspectionTargetValue": "76.5",
+            "InspectionUpperBorderValue": "79",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "44",
+            "InspectionName": "InspectionStepForMountainbike44",
+            "InspectionLowerBorderValue": "7",
+            "InspectionTargetValue": "13.0",
+            "InspectionUpperBorderValue": "19",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "45",
+            "InspectionName": "InspectionStepForMountainbike45",
+            "InspectionLowerBorderValue": "67",
+            "InspectionTargetValue": "71.5",
+            "InspectionUpperBorderValue": "76",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "46",
+            "InspectionName": "InspectionStepForMountainbike46",
+            "InspectionLowerBorderValue": "60",
+            "InspectionTargetValue": "64.0",
+            "InspectionUpperBorderValue": "68",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "47",
+            "InspectionName": "InspectionStepForMountainbike47",
+            "InspectionLowerBorderValue": "95",
+            "InspectionTargetValue": "98.0",
+            "InspectionUpperBorderValue": "101",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "48",
+            "InspectionName": "InspectionStepForMountainbike48",
+            "InspectionLowerBorderValue": "55",
+            "InspectionTargetValue": "59.0",
+            "InspectionUpperBorderValue": "63",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "49",
+            "InspectionName": "InspectionStepForMountainbike49",
+            "InspectionLowerBorderValue": "24",
+            "InspectionTargetValue": "33.5",
+            "InspectionUpperBorderValue": "43",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "50",
+            "InspectionName": "InspectionStepForMountainbike50",
+            "InspectionLowerBorderValue": "98",
+            "InspectionTargetValue": "103.0",
+            "InspectionUpperBorderValue": "108",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "51",
+            "InspectionName": "InspectionStepForMountainbike51",
+            "InspectionLowerBorderValue": "47",
+            "InspectionTargetValue": "56.0",
+            "InspectionUpperBorderValue": "65",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "52",
+            "InspectionName": "InspectionStepForMountainbike52",
+            "InspectionLowerBorderValue": "53",
+            "InspectionTargetValue": "57.5",
+            "InspectionUpperBorderValue": "62",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "53",
+            "InspectionName": "InspectionStepForMountainbike53",
+            "InspectionLowerBorderValue": "72",
+            "InspectionTargetValue": "81.5",
+            "InspectionUpperBorderValue": "91",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "5"
+            }
+        },
+        {
+            "InspectionStep": "54",
+            "InspectionName": "InspectionStepForMountainbike54",
+            "InspectionLowerBorderValue": "35",
+            "InspectionTargetValue": "42.5",
+            "InspectionUpperBorderValue": "50",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "55",
+            "InspectionName": "InspectionStepForMountainbike55",
+            "InspectionLowerBorderValue": "75",
+            "InspectionTargetValue": "83.0",
+            "InspectionUpperBorderValue": "91",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "56",
+            "InspectionName": "InspectionStepForMountainbike56",
+            "InspectionLowerBorderValue": "78",
+            "InspectionTargetValue": "83.0",
+            "InspectionUpperBorderValue": "88",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "57",
+            "InspectionName": "InspectionStepForMountainbike57",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "70.5",
+            "InspectionUpperBorderValue": "80",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "58",
+            "InspectionName": "InspectionStepForMountainbike58",
+            "InspectionLowerBorderValue": "29",
+            "InspectionTargetValue": "33.5",
+            "InspectionUpperBorderValue": "38",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "59",
+            "InspectionName": "InspectionStepForMountainbike59",
+            "InspectionLowerBorderValue": "77",
+            "InspectionTargetValue": "84.5",
+            "InspectionUpperBorderValue": "92",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "60",
+            "InspectionName": "InspectionStepForMountainbike60",
+            "InspectionLowerBorderValue": "24",
+            "InspectionTargetValue": "33.5",
+            "InspectionUpperBorderValue": "43",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "61",
+            "InspectionName": "InspectionStepForMountainbike61",
+            "InspectionLowerBorderValue": "20",
+            "InspectionTargetValue": "22.5",
+            "InspectionUpperBorderValue": "25",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "8"
+            }
+        },
+        {
+            "InspectionStep": "62",
+            "InspectionName": "InspectionStepForMountainbike62",
+            "InspectionLowerBorderValue": "99",
+            "InspectionTargetValue": "107.5",
+            "InspectionUpperBorderValue": "116",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "63",
+            "InspectionName": "InspectionStepForMountainbike63",
+            "InspectionLowerBorderValue": "44",
+            "InspectionTargetValue": "50.5",
+            "InspectionUpperBorderValue": "57",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "64",
+            "InspectionName": "InspectionStepForMountainbike64",
+            "InspectionLowerBorderValue": "10",
+            "InspectionTargetValue": "17.0",
+            "InspectionUpperBorderValue": "24",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "65",
+            "InspectionName": "InspectionStepForMountainbike65",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "17.0",
+            "InspectionUpperBorderValue": "23",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "66",
+            "InspectionName": "InspectionStepForMountainbike66",
+            "InspectionLowerBorderValue": "23",
+            "InspectionTargetValue": "29.5",
+            "InspectionUpperBorderValue": "36",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "67",
+            "InspectionName": "InspectionStepForMountainbike67",
+            "InspectionLowerBorderValue": "88",
+            "InspectionTargetValue": "93.5",
+            "InspectionUpperBorderValue": "99",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "68",
+            "InspectionName": "InspectionStepForMountainbike68",
+            "InspectionLowerBorderValue": "59",
+            "InspectionTargetValue": "64.0",
+            "InspectionUpperBorderValue": "69",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "69",
+            "InspectionName": "InspectionStepForMountainbike69",
+            "InspectionLowerBorderValue": "10",
+            "InspectionTargetValue": "17.0",
+            "InspectionUpperBorderValue": "24",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "70",
+            "InspectionName": "InspectionStepForMountainbike70",
+            "InspectionLowerBorderValue": "28",
+            "InspectionTargetValue": "37.0",
+            "InspectionUpperBorderValue": "46",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "71",
+            "InspectionName": "InspectionStepForMountainbike71",
+            "InspectionLowerBorderValue": "17",
+            "InspectionTargetValue": "27.0",
+            "InspectionUpperBorderValue": "37",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "72",
+            "InspectionName": "InspectionStepForMountainbike72",
+            "InspectionLowerBorderValue": "58",
+            "InspectionTargetValue": "61.5",
+            "InspectionUpperBorderValue": "65",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "73",
+            "InspectionName": "InspectionStepForMountainbike73",
+            "InspectionLowerBorderValue": "96",
+            "InspectionTargetValue": "102.0",
+            "InspectionUpperBorderValue": "108",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "74",
+            "InspectionName": "InspectionStepForMountainbike74",
+            "InspectionLowerBorderValue": "21",
+            "InspectionTargetValue": "25.0",
+            "InspectionUpperBorderValue": "29",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "6"
+            }
+        },
+        {
+            "InspectionStep": "75",
+            "InspectionName": "InspectionStepForMountainbike75",
+            "InspectionLowerBorderValue": "30",
+            "InspectionTargetValue": "40.0",
+            "InspectionUpperBorderValue": "50",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "76",
+            "InspectionName": "InspectionStepForMountainbike76",
+            "InspectionLowerBorderValue": "81",
+            "InspectionTargetValue": "85.5",
+            "InspectionUpperBorderValue": "90",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "77",
+            "InspectionName": "InspectionStepForMountainbike77",
+            "InspectionLowerBorderValue": "90",
+            "InspectionTargetValue": "100.0",
+            "InspectionUpperBorderValue": "110",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "78",
+            "InspectionName": "InspectionStepForMountainbike78",
+            "InspectionLowerBorderValue": "56",
+            "InspectionTargetValue": "58.5",
+            "InspectionUpperBorderValue": "61",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "79",
+            "InspectionName": "InspectionStepForMountainbike79",
+            "InspectionLowerBorderValue": "12",
+            "InspectionTargetValue": "19.0",
+            "InspectionUpperBorderValue": "26",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "80",
+            "InspectionName": "InspectionStepForMountainbike80",
+            "InspectionLowerBorderValue": "80",
+            "InspectionTargetValue": "88.5",
+            "InspectionUpperBorderValue": "97",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "81",
+            "InspectionName": "InspectionStepForMountainbike81",
+            "InspectionLowerBorderValue": "90",
+            "InspectionTargetValue": "94.5",
+            "InspectionUpperBorderValue": "99",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "82",
+            "InspectionName": "InspectionStepForMountainbike82",
+            "InspectionLowerBorderValue": "89",
+            "InspectionTargetValue": "94.5",
+            "InspectionUpperBorderValue": "100",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "83",
+            "InspectionName": "InspectionStepForMountainbike83",
+            "InspectionLowerBorderValue": "80",
+            "InspectionTargetValue": "85.0",
+            "InspectionUpperBorderValue": "90",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "84",
+            "InspectionName": "InspectionStepForMountainbike84",
+            "InspectionLowerBorderValue": "22",
+            "InspectionTargetValue": "29.5",
+            "InspectionUpperBorderValue": "37",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "85",
+            "InspectionName": "InspectionStepForMountainbike85",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "16.0",
+            "InspectionUpperBorderValue": "21",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "86",
+            "InspectionName": "InspectionStepForMountainbike86",
+            "InspectionLowerBorderValue": "84",
+            "InspectionTargetValue": "89.5",
+            "InspectionUpperBorderValue": "95",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "87",
+            "InspectionName": "InspectionStepForMountainbike87",
+            "InspectionLowerBorderValue": "12",
+            "InspectionTargetValue": "20.0",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "88",
+            "InspectionName": "InspectionStepForMountainbike88",
+            "InspectionLowerBorderValue": "68",
+            "InspectionTargetValue": "75.5",
+            "InspectionUpperBorderValue": "83",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "89",
+            "InspectionName": "InspectionStepForMountainbike89",
+            "InspectionLowerBorderValue": "19",
+            "InspectionTargetValue": "25.5",
+            "InspectionUpperBorderValue": "32",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "90",
+            "InspectionName": "InspectionStepForMountainbike90",
+            "InspectionLowerBorderValue": "34",
+            "InspectionTargetValue": "38.5",
+            "InspectionUpperBorderValue": "43",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "91",
+            "InspectionName": "InspectionStepForMountainbike91",
+            "InspectionLowerBorderValue": "17",
+            "InspectionTargetValue": "24.0",
+            "InspectionUpperBorderValue": "31",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "5"
+            }
+        },
+        {
+            "InspectionStep": "92",
+            "InspectionName": "InspectionStepForMountainbike92",
+            "InspectionLowerBorderValue": "26",
+            "InspectionTargetValue": "30.5",
+            "InspectionUpperBorderValue": "35",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "93",
+            "InspectionName": "InspectionStepForMountainbike93",
+            "InspectionLowerBorderValue": "100",
+            "InspectionTargetValue": "108.5",
+            "InspectionUpperBorderValue": "117",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "94",
+            "InspectionName": "InspectionStepForMountainbike94",
+            "InspectionLowerBorderValue": "38",
+            "InspectionTargetValue": "40.5",
+            "InspectionUpperBorderValue": "43",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "95",
+            "InspectionName": "InspectionStepForMountainbike95",
+            "InspectionLowerBorderValue": "45",
+            "InspectionTargetValue": "49.0",
+            "InspectionUpperBorderValue": "53",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "96",
+            "InspectionName": "InspectionStepForMountainbike96",
+            "InspectionLowerBorderValue": "51",
+            "InspectionTargetValue": "55.0",
+            "InspectionUpperBorderValue": "59",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "97",
+            "InspectionName": "InspectionStepForMountainbike97",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "67.5",
+            "InspectionUpperBorderValue": "74",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "98",
+            "InspectionName": "InspectionStepForMountainbike98",
+            "InspectionLowerBorderValue": "95",
+            "InspectionTargetValue": "99.0",
+            "InspectionUpperBorderValue": "103",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "99",
+            "InspectionName": "InspectionStepForMountainbike99",
+            "InspectionLowerBorderValue": "99",
+            "InspectionTargetValue": "107.5",
+            "InspectionUpperBorderValue": "116",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "100",
+            "InspectionName": "InspectionStepForMountainbike100",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "14.0",
+            "InspectionUpperBorderValue": "17",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForMountainbike.AnyMachineSetpoint3": "31"
+            }
+        }
+    ]
+}

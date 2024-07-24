@@ -1,0 +1,1500 @@
+{
+    "OrderNumber": "{order_number}",
+    "ArticleName": "Roadbike",
+    "MachineName": "{machine_name}",
+    "SerialNumber": "{serial_number}",
+    "InspectionsAndResults": [
+        {
+            "InspectionStep": "1",
+            "InspectionName": "InspectionStepForRoadbike1",
+            "InspectionLowerBorderValue": "59",
+            "InspectionTargetValue": "68.0",
+            "InspectionUpperBorderValue": "77",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "2",
+            "InspectionName": "InspectionStepForRoadbike2",
+            "InspectionLowerBorderValue": "59",
+            "InspectionTargetValue": "62.0",
+            "InspectionUpperBorderValue": "65",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "3",
+            "InspectionName": "InspectionStepForRoadbike3",
+            "InspectionLowerBorderValue": "8",
+            "InspectionTargetValue": "15.5",
+            "InspectionUpperBorderValue": "23",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "4",
+            "InspectionName": "InspectionStepForRoadbike4",
+            "InspectionLowerBorderValue": "36",
+            "InspectionTargetValue": "40.5",
+            "InspectionUpperBorderValue": "45",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "5",
+            "InspectionName": "InspectionStepForRoadbike5",
+            "InspectionLowerBorderValue": "48",
+            "InspectionTargetValue": "56.0",
+            "InspectionUpperBorderValue": "64",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "6",
+            "InspectionName": "InspectionStepForRoadbike6",
+            "InspectionLowerBorderValue": "98",
+            "InspectionTargetValue": "102.5",
+            "InspectionUpperBorderValue": "107",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "7",
+            "InspectionName": "InspectionStepForRoadbike7",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "64.0",
+            "InspectionUpperBorderValue": "67",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "18",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "8",
+            "InspectionName": "InspectionStepForRoadbike8",
+            "InspectionLowerBorderValue": "84",
+            "InspectionTargetValue": "89.5",
+            "InspectionUpperBorderValue": "95",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "9",
+            "InspectionName": "InspectionStepForRoadbike9",
+            "InspectionLowerBorderValue": "84",
+            "InspectionTargetValue": "88.5",
+            "InspectionUpperBorderValue": "93",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "10",
+            "InspectionName": "InspectionStepForRoadbike10",
+            "InspectionLowerBorderValue": "72",
+            "InspectionTargetValue": "75.5",
+            "InspectionUpperBorderValue": "79",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "11",
+            "InspectionName": "InspectionStepForRoadbike11",
+            "InspectionLowerBorderValue": "76",
+            "InspectionTargetValue": "80.5",
+            "InspectionUpperBorderValue": "85",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "12",
+            "InspectionName": "InspectionStepForRoadbike12",
+            "InspectionLowerBorderValue": "100",
+            "InspectionTargetValue": "109.5",
+            "InspectionUpperBorderValue": "119",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "13",
+            "InspectionName": "InspectionStepForRoadbike13",
+            "InspectionLowerBorderValue": "46",
+            "InspectionTargetValue": "49.0",
+            "InspectionUpperBorderValue": "52",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "14",
+            "InspectionName": "InspectionStepForRoadbike14",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "68.0",
+            "InspectionUpperBorderValue": "75",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "15",
+            "InspectionName": "InspectionStepForRoadbike15",
+            "InspectionLowerBorderValue": "95",
+            "InspectionTargetValue": "102.5",
+            "InspectionUpperBorderValue": "110",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "16",
+            "InspectionName": "InspectionStepForRoadbike16",
+            "InspectionLowerBorderValue": "71",
+            "InspectionTargetValue": "73.5",
+            "InspectionUpperBorderValue": "76",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "17",
+            "InspectionName": "InspectionStepForRoadbike17",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "17.0",
+            "InspectionUpperBorderValue": "23",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "18",
+            "InspectionName": "InspectionStepForRoadbike18",
+            "InspectionLowerBorderValue": "88",
+            "InspectionTargetValue": "91.5",
+            "InspectionUpperBorderValue": "95",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "19",
+            "InspectionName": "InspectionStepForRoadbike19",
+            "InspectionLowerBorderValue": "9",
+            "InspectionTargetValue": "13.5",
+            "InspectionUpperBorderValue": "18",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "20",
+            "InspectionName": "InspectionStepForRoadbike20",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "66.0",
+            "InspectionUpperBorderValue": "71",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "21",
+            "InspectionName": "InspectionStepForRoadbike21",
+            "InspectionLowerBorderValue": "99",
+            "InspectionTargetValue": "109.0",
+            "InspectionUpperBorderValue": "119",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "22",
+            "InspectionName": "InspectionStepForRoadbike22",
+            "InspectionLowerBorderValue": "63",
+            "InspectionTargetValue": "65.5",
+            "InspectionUpperBorderValue": "68",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "23",
+            "InspectionName": "InspectionStepForRoadbike23",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "13.0",
+            "InspectionUpperBorderValue": "21",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "24",
+            "InspectionName": "InspectionStepForRoadbike24",
+            "InspectionLowerBorderValue": "48",
+            "InspectionTargetValue": "52.0",
+            "InspectionUpperBorderValue": "56",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "25",
+            "InspectionName": "InspectionStepForRoadbike25",
+            "InspectionLowerBorderValue": "23",
+            "InspectionTargetValue": "32.5",
+            "InspectionUpperBorderValue": "42",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "23"
+            }
+        },
+        {
+            "InspectionStep": "26",
+            "InspectionName": "InspectionStepForRoadbike26",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "12.5",
+            "InspectionUpperBorderValue": "20",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "20"
+            }
+        },
+        {
+            "InspectionStep": "27",
+            "InspectionName": "InspectionStepForRoadbike27",
+            "InspectionLowerBorderValue": "41",
+            "InspectionTargetValue": "46.5",
+            "InspectionUpperBorderValue": "52",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "28",
+            "InspectionName": "InspectionStepForRoadbike28",
+            "InspectionLowerBorderValue": "5",
+            "InspectionTargetValue": "8.5",
+            "InspectionUpperBorderValue": "12",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "29",
+            "InspectionName": "InspectionStepForRoadbike29",
+            "InspectionLowerBorderValue": "91",
+            "InspectionTargetValue": "97.0",
+            "InspectionUpperBorderValue": "103",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "8"
+            }
+        },
+        {
+            "InspectionStep": "30",
+            "InspectionName": "InspectionStepForRoadbike30",
+            "InspectionLowerBorderValue": "81",
+            "InspectionTargetValue": "83.5",
+            "InspectionUpperBorderValue": "86",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "31",
+            "InspectionName": "InspectionStepForRoadbike31",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "107.0",
+            "InspectionUpperBorderValue": "117",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "32",
+            "InspectionName": "InspectionStepForRoadbike32",
+            "InspectionLowerBorderValue": "100",
+            "InspectionTargetValue": "108.0",
+            "InspectionUpperBorderValue": "116",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "33",
+            "InspectionName": "InspectionStepForRoadbike33",
+            "InspectionLowerBorderValue": "78",
+            "InspectionTargetValue": "83.5",
+            "InspectionUpperBorderValue": "89",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "34",
+            "InspectionName": "InspectionStepForRoadbike34",
+            "InspectionLowerBorderValue": "12",
+            "InspectionTargetValue": "18.5",
+            "InspectionUpperBorderValue": "25",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "35",
+            "InspectionName": "InspectionStepForRoadbike35",
+            "InspectionLowerBorderValue": "26",
+            "InspectionTargetValue": "29.5",
+            "InspectionUpperBorderValue": "33",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "23",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "18",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "36",
+            "InspectionName": "InspectionStepForRoadbike36",
+            "InspectionLowerBorderValue": "54",
+            "InspectionTargetValue": "58.0",
+            "InspectionUpperBorderValue": "62",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "37",
+            "InspectionName": "InspectionStepForRoadbike37",
+            "InspectionLowerBorderValue": "79",
+            "InspectionTargetValue": "87.5",
+            "InspectionUpperBorderValue": "96",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "38",
+            "InspectionName": "InspectionStepForRoadbike38",
+            "InspectionLowerBorderValue": "43",
+            "InspectionTargetValue": "48.0",
+            "InspectionUpperBorderValue": "53",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "39",
+            "InspectionName": "InspectionStepForRoadbike39",
+            "InspectionLowerBorderValue": "26",
+            "InspectionTargetValue": "28.5",
+            "InspectionUpperBorderValue": "31",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "40",
+            "InspectionName": "InspectionStepForRoadbike40",
+            "InspectionLowerBorderValue": "83",
+            "InspectionTargetValue": "86.5",
+            "InspectionUpperBorderValue": "90",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "41",
+            "InspectionName": "InspectionStepForRoadbike41",
+            "InspectionLowerBorderValue": "99",
+            "InspectionTargetValue": "109.0",
+            "InspectionUpperBorderValue": "119",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "42",
+            "InspectionName": "InspectionStepForRoadbike42",
+            "InspectionLowerBorderValue": "47",
+            "InspectionTargetValue": "54.5",
+            "InspectionUpperBorderValue": "62",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "43",
+            "InspectionName": "InspectionStepForRoadbike43",
+            "InspectionLowerBorderValue": "40",
+            "InspectionTargetValue": "43.0",
+            "InspectionUpperBorderValue": "46",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "44",
+            "InspectionName": "InspectionStepForRoadbike44",
+            "InspectionLowerBorderValue": "16",
+            "InspectionTargetValue": "22.0",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "45",
+            "InspectionName": "InspectionStepForRoadbike45",
+            "InspectionLowerBorderValue": "8",
+            "InspectionTargetValue": "13.5",
+            "InspectionUpperBorderValue": "19",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "46",
+            "InspectionName": "InspectionStepForRoadbike46",
+            "InspectionLowerBorderValue": "53",
+            "InspectionTargetValue": "61.0",
+            "InspectionUpperBorderValue": "69",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31"
+            }
+        },
+        {
+            "InspectionStep": "47",
+            "InspectionName": "InspectionStepForRoadbike47",
+            "InspectionLowerBorderValue": "40",
+            "InspectionTargetValue": "45.0",
+            "InspectionUpperBorderValue": "50",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "48",
+            "InspectionName": "InspectionStepForRoadbike48",
+            "InspectionLowerBorderValue": "60",
+            "InspectionTargetValue": "66.0",
+            "InspectionUpperBorderValue": "72",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "17",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "9"
+            }
+        },
+        {
+            "InspectionStep": "49",
+            "InspectionName": "InspectionStepForRoadbike49",
+            "InspectionLowerBorderValue": "63",
+            "InspectionTargetValue": "73.0",
+            "InspectionUpperBorderValue": "83",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "50",
+            "InspectionName": "InspectionStepForRoadbike50",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "106.5",
+            "InspectionUpperBorderValue": "116",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "51",
+            "InspectionName": "InspectionStepForRoadbike51",
+            "InspectionLowerBorderValue": "48",
+            "InspectionTargetValue": "57.5",
+            "InspectionUpperBorderValue": "67",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "52",
+            "InspectionName": "InspectionStepForRoadbike52",
+            "InspectionLowerBorderValue": "16",
+            "InspectionTargetValue": "24.5",
+            "InspectionUpperBorderValue": "33",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "53",
+            "InspectionName": "InspectionStepForRoadbike53",
+            "InspectionLowerBorderValue": "92",
+            "InspectionTargetValue": "96.5",
+            "InspectionUpperBorderValue": "101",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "54",
+            "InspectionName": "InspectionStepForRoadbike54",
+            "InspectionLowerBorderValue": "98",
+            "InspectionTargetValue": "107.0",
+            "InspectionUpperBorderValue": "116",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "55",
+            "InspectionName": "InspectionStepForRoadbike55",
+            "InspectionLowerBorderValue": "41",
+            "InspectionTargetValue": "46.0",
+            "InspectionUpperBorderValue": "51",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "56",
+            "InspectionName": "InspectionStepForRoadbike56",
+            "InspectionLowerBorderValue": "86",
+            "InspectionTargetValue": "93.5",
+            "InspectionUpperBorderValue": "101",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "57",
+            "InspectionName": "InspectionStepForRoadbike57",
+            "InspectionLowerBorderValue": "73",
+            "InspectionTargetValue": "79.0",
+            "InspectionUpperBorderValue": "85",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "5"
+            }
+        },
+        {
+            "InspectionStep": "58",
+            "InspectionName": "InspectionStepForRoadbike58",
+            "InspectionLowerBorderValue": "93",
+            "InspectionTargetValue": "103.0",
+            "InspectionUpperBorderValue": "113",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "59",
+            "InspectionName": "InspectionStepForRoadbike59",
+            "InspectionLowerBorderValue": "40",
+            "InspectionTargetValue": "47.0",
+            "InspectionUpperBorderValue": "54",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "60",
+            "InspectionName": "InspectionStepForRoadbike60",
+            "InspectionLowerBorderValue": "34",
+            "InspectionTargetValue": "43.0",
+            "InspectionUpperBorderValue": "52",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "61",
+            "InspectionName": "InspectionStepForRoadbike61",
+            "InspectionLowerBorderValue": "61",
+            "InspectionTargetValue": "70.5",
+            "InspectionUpperBorderValue": "80",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "62",
+            "InspectionName": "InspectionStepForRoadbike62",
+            "InspectionLowerBorderValue": "54",
+            "InspectionTargetValue": "60.0",
+            "InspectionUpperBorderValue": "66",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "63",
+            "InspectionName": "InspectionStepForRoadbike63",
+            "InspectionLowerBorderValue": "94",
+            "InspectionTargetValue": "99.0",
+            "InspectionUpperBorderValue": "104",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25"
+            }
+        },
+        {
+            "InspectionStep": "64",
+            "InspectionName": "InspectionStepForRoadbike64",
+            "InspectionLowerBorderValue": "53",
+            "InspectionTargetValue": "60.0",
+            "InspectionUpperBorderValue": "67",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "65",
+            "InspectionName": "InspectionStepForRoadbike65",
+            "InspectionLowerBorderValue": "10",
+            "InspectionTargetValue": "14.5",
+            "InspectionUpperBorderValue": "19",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "17",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "8"
+            }
+        },
+        {
+            "InspectionStep": "66",
+            "InspectionName": "InspectionStepForRoadbike66",
+            "InspectionLowerBorderValue": "69",
+            "InspectionTargetValue": "73.5",
+            "InspectionUpperBorderValue": "78",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "67",
+            "InspectionName": "InspectionStepForRoadbike67",
+            "InspectionLowerBorderValue": "26",
+            "InspectionTargetValue": "35.0",
+            "InspectionUpperBorderValue": "44",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2"
+            }
+        },
+        {
+            "InspectionStep": "68",
+            "InspectionName": "InspectionStepForRoadbike68",
+            "InspectionLowerBorderValue": "47",
+            "InspectionTargetValue": "52.5",
+            "InspectionUpperBorderValue": "58",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "69",
+            "InspectionName": "InspectionStepForRoadbike69",
+            "InspectionLowerBorderValue": "60",
+            "InspectionTargetValue": "70.0",
+            "InspectionUpperBorderValue": "80",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35"
+            }
+        },
+        {
+            "InspectionStep": "70",
+            "InspectionName": "InspectionStepForRoadbike70",
+            "InspectionLowerBorderValue": "64",
+            "InspectionTargetValue": "67.5",
+            "InspectionUpperBorderValue": "71",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22"
+            }
+        },
+        {
+            "InspectionStep": "71",
+            "InspectionName": "InspectionStepForRoadbike71",
+            "InspectionLowerBorderValue": "35",
+            "InspectionTargetValue": "41.5",
+            "InspectionUpperBorderValue": "48",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1"
+            }
+        },
+        {
+            "InspectionStep": "72",
+            "InspectionName": "InspectionStepForRoadbike72",
+            "InspectionLowerBorderValue": "99",
+            "InspectionTargetValue": "107.0",
+            "InspectionUpperBorderValue": "115",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "18"
+            }
+        },
+        {
+            "InspectionStep": "73",
+            "InspectionName": "InspectionStepForRoadbike73",
+            "InspectionLowerBorderValue": "28",
+            "InspectionTargetValue": "31.0",
+            "InspectionUpperBorderValue": "34",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21"
+            }
+        },
+        {
+            "InspectionStep": "74",
+            "InspectionName": "InspectionStepForRoadbike74",
+            "InspectionLowerBorderValue": "91",
+            "InspectionTargetValue": "96.0",
+            "InspectionUpperBorderValue": "101",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "75",
+            "InspectionName": "InspectionStepForRoadbike75",
+            "InspectionLowerBorderValue": "16",
+            "InspectionTargetValue": "22.0",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "76",
+            "InspectionName": "InspectionStepForRoadbike76",
+            "InspectionLowerBorderValue": "90",
+            "InspectionTargetValue": "97.5",
+            "InspectionUpperBorderValue": "105",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5"
+            }
+        },
+        {
+            "InspectionStep": "77",
+            "InspectionName": "InspectionStepForRoadbike77",
+            "InspectionLowerBorderValue": "28",
+            "InspectionTargetValue": "32.0",
+            "InspectionUpperBorderValue": "36",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "78",
+            "InspectionName": "InspectionStepForRoadbike78",
+            "InspectionLowerBorderValue": "94",
+            "InspectionTargetValue": "96.5",
+            "InspectionUpperBorderValue": "99",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "79",
+            "InspectionName": "InspectionStepForRoadbike79",
+            "InspectionLowerBorderValue": "86",
+            "InspectionTargetValue": "92.5",
+            "InspectionUpperBorderValue": "99",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32"
+            }
+        },
+        {
+            "InspectionStep": "80",
+            "InspectionName": "InspectionStepForRoadbike80",
+            "InspectionLowerBorderValue": "34",
+            "InspectionTargetValue": "40.5",
+            "InspectionUpperBorderValue": "47",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "81",
+            "InspectionName": "InspectionStepForRoadbike81",
+            "InspectionLowerBorderValue": "79",
+            "InspectionTargetValue": "83.0",
+            "InspectionUpperBorderValue": "87",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24"
+            }
+        },
+        {
+            "InspectionStep": "82",
+            "InspectionName": "InspectionStepForRoadbike82",
+            "InspectionLowerBorderValue": "17",
+            "InspectionTargetValue": "22.5",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4"
+            }
+        },
+        {
+            "InspectionStep": "83",
+            "InspectionName": "InspectionStepForRoadbike83",
+            "InspectionLowerBorderValue": "55",
+            "InspectionTargetValue": "60.5",
+            "InspectionUpperBorderValue": "66",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "84",
+            "InspectionName": "InspectionStepForRoadbike84",
+            "InspectionLowerBorderValue": "93",
+            "InspectionTargetValue": "95.5",
+            "InspectionUpperBorderValue": "98",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3"
+            }
+        },
+        {
+            "InspectionStep": "85",
+            "InspectionName": "InspectionStepForRoadbike85",
+            "InspectionLowerBorderValue": "12",
+            "InspectionTargetValue": "18.5",
+            "InspectionUpperBorderValue": "25",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "15"
+            }
+        },
+        {
+            "InspectionStep": "86",
+            "InspectionName": "InspectionStepForRoadbike86",
+            "InspectionLowerBorderValue": "75",
+            "InspectionTargetValue": "79.5",
+            "InspectionUpperBorderValue": "84",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "87",
+            "InspectionName": "InspectionStepForRoadbike87",
+            "InspectionLowerBorderValue": "18",
+            "InspectionTargetValue": "25.0",
+            "InspectionUpperBorderValue": "32",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "31",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "88",
+            "InspectionName": "InspectionStepForRoadbike88",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "102.5",
+            "InspectionUpperBorderValue": "108",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16"
+            }
+        },
+        {
+            "InspectionStep": "89",
+            "InspectionName": "InspectionStepForRoadbike89",
+            "InspectionLowerBorderValue": "87",
+            "InspectionTargetValue": "97.0",
+            "InspectionUpperBorderValue": "107",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "22",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "17"
+            }
+        },
+        {
+            "InspectionStep": "90",
+            "InspectionName": "InspectionStepForRoadbike90",
+            "InspectionLowerBorderValue": "32",
+            "InspectionTargetValue": "40.0",
+            "InspectionUpperBorderValue": "48",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "91",
+            "InspectionName": "InspectionStepForRoadbike91",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "102.5",
+            "InspectionUpperBorderValue": "108",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "33"
+            }
+        },
+        {
+            "InspectionStep": "92",
+            "InspectionName": "InspectionStepForRoadbike92",
+            "InspectionLowerBorderValue": "4",
+            "InspectionTargetValue": "7.0",
+            "InspectionUpperBorderValue": "10",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20"
+            }
+        },
+        {
+            "InspectionStep": "93",
+            "InspectionName": "InspectionStepForRoadbike93",
+            "InspectionLowerBorderValue": "8",
+            "InspectionTargetValue": "18.0",
+            "InspectionUpperBorderValue": "28",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "6"
+            }
+        },
+        {
+            "InspectionStep": "94",
+            "InspectionName": "InspectionStepForRoadbike94",
+            "InspectionLowerBorderValue": "66",
+            "InspectionTargetValue": "71.5",
+            "InspectionUpperBorderValue": "77",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "4",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "21",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34"
+            }
+        },
+        {
+            "InspectionStep": "95",
+            "InspectionName": "InspectionStepForRoadbike95",
+            "InspectionLowerBorderValue": "97",
+            "InspectionTargetValue": "105.5",
+            "InspectionUpperBorderValue": "114",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "2",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "5"
+            }
+        },
+        {
+            "InspectionStep": "96",
+            "InspectionName": "InspectionStepForRoadbike96",
+            "InspectionLowerBorderValue": "11",
+            "InspectionTargetValue": "14.0",
+            "InspectionUpperBorderValue": "17",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "35",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "16",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "10"
+            }
+        },
+        {
+            "InspectionStep": "97",
+            "InspectionName": "InspectionStepForRoadbike97",
+            "InspectionLowerBorderValue": "62",
+            "InspectionTargetValue": "64.5",
+            "InspectionUpperBorderValue": "67",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "1",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "24",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "19"
+            }
+        },
+        {
+            "InspectionStep": "98",
+            "InspectionName": "InspectionStepForRoadbike98",
+            "InspectionLowerBorderValue": "30",
+            "InspectionTargetValue": "37.5",
+            "InspectionUpperBorderValue": "45",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "30"
+            }
+        },
+        {
+            "InspectionStep": "99",
+            "InspectionName": "InspectionStepForRoadbike99",
+            "InspectionLowerBorderValue": "26",
+            "InspectionTargetValue": "33.0",
+            "InspectionUpperBorderValue": "40",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "5",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "25",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "32",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint4": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint5": "7"
+            }
+        },
+        {
+            "InspectionStep": "100",
+            "InspectionName": "InspectionStepForRoadbike100",
+            "InspectionLowerBorderValue": "95",
+            "InspectionTargetValue": "97.5",
+            "InspectionUpperBorderValue": "100",
+            "InspectionUnit": "AnyUnit",
+            "InspectionResultMeasuredValue": "{measured_value}",
+            "InspectionResultPassed": "True",
+            "InspectionSetpoints": {
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint1": "3",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint2": "20",
+                "MachineSetPointGroupForRoadbike.AnyMachineSetpoint3": "34"
+            }
+        }
+    ]
+}
